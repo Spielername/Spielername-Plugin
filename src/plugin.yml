@@ -1,0 +1,6 @@
+## YAML Template.
+---
+## YAML Template.
+name: TestPlugin
+main: spielername.plugin.SpielernamePlugin
+version: 0.2
